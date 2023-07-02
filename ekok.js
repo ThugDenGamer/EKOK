@@ -42,4 +42,3 @@ function ekok(a,b){
         }
     }
 }
-// ThugDenGamer tarafından yapıldı! ©️
